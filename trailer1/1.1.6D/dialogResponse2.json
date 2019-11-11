@@ -1,0 +1,7 @@
+{
+  "id": null,
+  "buttonText": "No: concentrate on your MA research",
+  "from": "trailer1/1.1.6D/dialogSpeech1.json",
+  "to": "trailer1/1.1.6D/dialogSpeech1.json",
+  "pageTransition": "trailer1/1.1.6D/pageTransition2.json"
+}

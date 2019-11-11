@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "title": "A Deadline Looming",
+  "continueRandomly": false,
+  "timerVisible": false,
+  "autoTransitionOnTimerExpiration": false,
+  "endOfTopic": false,
+  "money": {
+    "amount": 50
+  },
+  "time": null,
+  "chapter": null
+}

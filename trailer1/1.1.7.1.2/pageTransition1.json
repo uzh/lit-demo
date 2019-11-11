@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "trailer1/1.1.7.1.3B/page.json",
+  "buttonText": "Call van Dijk back in to read your description",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": "visited",
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": "trailer1/1.1.6.1B/page.json",
+      "affectedMail": null
+    }
+  ]
+}

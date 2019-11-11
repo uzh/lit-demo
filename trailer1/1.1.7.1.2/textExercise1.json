@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "numberOfColumns": 5,
+  "offsetColumns": 1,
+  "renderOrder": 2,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "descriptionForNotebook": null,
+  "page": null,
+  "exerciseState": null,
+  "placeholderText": "Write your description here (it will be saved to your Notebook)",
+  "defaultText": null,
+  "maxLength": null,
+  "textSolutions": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "title": "GLAMM Interview Test",
+  "continueRandomly": false,
+  "timerVisible": true,
+  "autoTransitionOnTimerExpiration": true,
+  "endOfTopic": false,
+  "money": null,
+  "time": {
+    "time": 300
+  },
+  "chapter": null
+}

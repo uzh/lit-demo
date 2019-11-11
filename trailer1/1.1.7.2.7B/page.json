@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "title": "A plan that works?",
+  "continueRandomly": false,
+  "timerVisible": false,
+  "autoTransitionOnTimerExpiration": false,
+  "endOfTopic": true,
+  "money": null,
+  "time": null,
+  "chapter": null
+}

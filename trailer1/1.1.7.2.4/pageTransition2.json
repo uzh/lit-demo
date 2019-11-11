@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "trailer1/1.1.7.2.5/page.json",
+  "buttonText": "Greet him with a friendly smile and ask how his day was",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": -3
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}

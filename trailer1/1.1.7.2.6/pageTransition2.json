@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "trailer1/1.1.7.2.7notB/page.json",
+  "buttonText": "Call Natalie",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": "visited",
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": "trailer1/1.1.6.2notB/page.json",
+      "affectedMail": null
+    }
+  ]
+}

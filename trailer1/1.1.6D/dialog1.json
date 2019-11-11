@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "from": "trailer1/1.1.6D/character1.json",
+  "receiveAfter": {
+    "time": 0
+  },
+  "page": null,
+  "speech": "trailer1/1.1.6D/dialogSpeech1.json",
+  "answers": null
+}

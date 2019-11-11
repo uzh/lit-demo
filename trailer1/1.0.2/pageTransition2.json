@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "trailer1/1.1.1/page.json",
+  "buttonText": "...you are an intellectual fraud",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}

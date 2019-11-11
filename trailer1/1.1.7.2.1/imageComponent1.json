@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "numberOfColumns": 4,
+  "offsetColumns": 1,
+  "renderOrder": 1,
+  "page": null,
+  "images": [
+    "resources/1.1.7.2.1_Hiroshige_Echigoya_PublicDomain.jpg"
+  ],
+  "imageViewRectangle": null,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageEnter",
+  "zoomable": true,
+  "caption": "<a href=\"https://www.brooklynmuseum.org/opencollection/objects/121623\" target=\"_blank\">Hiroshige, “Nihonbashi yukibare” (Nihonbashi: Clearing after Snow), from “One Hundred Famous Views of Edo”</a>"
+}

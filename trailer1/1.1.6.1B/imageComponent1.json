@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "numberOfColumns": 10,
+  "offsetColumns": 1,
+  "renderOrder": 1,
+  "page": null,
+  "images": [
+    "resources/1.1.5_Edo1849_PublicDomain.jpg"
+  ],
+  "imageViewRectangle": null,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "zoomable": true,
+  "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:1849_Japanese_Map_of_Edo_or_Tokyo,_Japan_-_Geographicus_-_Edo-tokyo-1849.jpg\" target=\"_blank\">“City of Edo, 1849”</a>"
+}

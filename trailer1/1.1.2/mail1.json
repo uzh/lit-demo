@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "from": "trailer1/1.1.2/character1.json",
+  "openOnReceive": false,
+  "receiveAfter": {
+    "time": 5
+  },
+  "page": null,
+  "subject": "Unreturned Library Books",
+  "body": "Dear {{user.firstName}} {{user.lastName}},<br><br>This is to inform you that you are now two weeks overdue on returning the ten Central Library books about which we previously emailed you.<br><br>As you did not respond to our previous correspondence, and as warned therein, we shall now charge you a fine of 2.50 EUR per book. This will be deducted from your university smartcard with immediate effect.<br><br>*Please do not reply to this email, which has been automatically generated.*<br><br>Yours sincerely<br><br>Central Library Admonishment and Warning Services (CLAWS)"
+}

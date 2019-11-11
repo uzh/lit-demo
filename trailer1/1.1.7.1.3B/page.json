@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "title": "An open door?",
+  "continueRandomly": false,
+  "timerVisible": false,
+  "autoTransitionOnTimerExpiration": false,
+  "endOfTopic": true,
+  "money": null,
+  "time": null,
+  "chapter": null
+}

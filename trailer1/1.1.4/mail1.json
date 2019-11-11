@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "from": "trailer1/1.1.4/character1.json",
+  "openOnReceive": false,
+  "receiveAfter": {
+    "time": 5
+  },
+  "page": null,
+  "subject": "Job opportunity!",
+  "body": "Hi {{user.firstName}},<br><br> I hope all’s well. I heard that something at GLAMM has just come up--we should talk. I'll call you in a few minutes.<br><br>No need to reply until we speak!<br><br>Best,<br>Natalie<br><br>*Dr. Natalie Tasukarru<br>Postdoctoral Assistant, Department of History*"
+}

@@ -1,0 +1,7 @@
+{
+  "id": null,
+  "buttonText": "Yes: go for a GLAMM interview",
+  "from": "trailer1/1.1.6D/dialogSpeech1.json",
+  "to": "trailer1/1.1.6D/dialogSpeech1.json",
+  "pageTransition": "trailer1/1.1.6D/pageTransition1.json"
+}

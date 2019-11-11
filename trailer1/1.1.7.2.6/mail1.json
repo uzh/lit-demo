@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "from": "trailer1/1.1.7.2.6/character1.json",
+  "openOnReceive": false,
+  "receiveAfter": {
+    "time": 2
+  },
+  "page": null,
+  "subject": "***SPAM?***Loan Support",
+  "body": "Hello sir/madame!<br><br>Stressed? In need? Out of options? We offer competitive loan rates, NO QUESTIONS POSED!<br><br>Reply to this missive with immediacy.<br><br>Yours faithfully,<br>Mrs Trudy Waahite<br>Friendly Loan Options Services Ltd."
+}

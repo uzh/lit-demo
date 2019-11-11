@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "trailer1/1.1.6D/page.json",
+  "buttonText": "You had laughed too, because you thought he made a good point",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}

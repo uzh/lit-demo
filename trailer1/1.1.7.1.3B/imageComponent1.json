@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "numberOfColumns": 4,
+  "offsetColumns": 1,
+  "renderOrder": 1,
+  "page": null,
+  "images": [
+    "resources/1.1.7.1.3_OK.jpg"
+  ],
+  "imageViewRectangle": null,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "zoomable": false,
+  "caption": null
+}

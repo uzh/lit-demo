@@ -2,4 +2,5 @@
 
 # Demo storyline for *Lives in Transit*
 
-This repository contains the content for the demo storyline in *Lives in Transit*.
+This repository contains the content for the demo storyline in *Lives in Transit*, called *Defining Work*.
+

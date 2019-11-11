@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "numberOfColumns": 4,
+  "offsetColumns": 1,
+  "renderOrder": 1,
+  "page": null,
+  "images": [
+    "resources/1.1.7.1_Yukata_PermissionOK.jpg"
+  ],
+  "imageViewRectangle": null,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "zoomable": true,
+  "caption": null
+}
