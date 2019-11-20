@@ -4,3 +4,4 @@
 
 This repository contains the content for the demo storyline in *Lives in Transit*, called *Defining Work*.
 
+The playtime is around 20 minutes.
