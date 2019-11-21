@@ -1,10 +1,10 @@
 {
   "id": null,
-  "numberOfColumns": 8,
-  "offsetColumns": 2,
+  "numberOfColumns": 7,
+  "offsetColumns": 3,
   "renderOrder": 3,
   "showInNotebook": true,
   "showInNotebookAt": "pageEnter",
   "page": null,
-  "markdownContent": "**“Things happen in archives and libraries and on the way to them.”** ??? Hmm, whatever..."
+  "markdownContent": "“Things happen in archives and libraries and on the way to them.” *??? Hmm, whatever...*"
 }
